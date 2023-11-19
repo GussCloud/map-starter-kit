@@ -2766,10 +2766,6 @@
                  "imagewidth":64
                 }],
          "tilewidth":96
-        }, 
-        {
-         "firstgid":3267,
-         "source":":\/automap-tiles.tsx"
         }],
  "tilewidth":32,
  "type":"map",
